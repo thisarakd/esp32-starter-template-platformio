@@ -28,8 +28,8 @@ Before running this project, ensure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/thisarakd/esp32-starter-template-platformio.git
+cd esp32-starter-template-platformio
 
 ```
 
